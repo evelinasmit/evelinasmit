@@ -1,4 +1,4 @@
-## *Labas!* 👋 (that's hello in Lithuanian) 
+## *Labas!* 👋
 
 I'm Evelina, a full-stack software engineer @ a tech start-up. 
 
